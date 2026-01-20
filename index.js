@@ -18,7 +18,7 @@ console.log("Data:", data);    //null
 
 //object
 let user={     //creates an object 'user' with properties
-    name: "nitin",
+    name: "shaurya kapoor",
     age: 20,
     country: "India",
     email: "shauryakapoor2005.sk@gmail.com"
